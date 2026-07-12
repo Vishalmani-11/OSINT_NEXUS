@@ -121,19 +121,14 @@ make up
 
 # 📸 Screenshots
 
-Add screenshots here.
+DashBoard:
+docs/2026-07-12_18-32-13.png
 
-Example:
+Login Page:
+docs/2026-07-12_18-32-25.png
 
-```
-docs/dashboard.png
-
-docs/investigation.png
-
-docs/api-docs.png
-
-docs/neo4j.png
-```
+Api Docs :
+docs/2026-07-12_18-32-38.png
 
 ---
 
